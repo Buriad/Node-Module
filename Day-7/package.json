@@ -10,9 +10,11 @@
   "author": "narmandakh buriad",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
   },
   "devDependencies": {
     "react": "^18.1.0"
-  }
+  },
+  "keywords": []
 }

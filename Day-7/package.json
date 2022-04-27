@@ -1,0 +1,14 @@
+{
+  "name": "node-project",
+  "version": "0.0.1",
+  "description": "our first node project",
+  "main": "Ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "narmandakh buriad",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

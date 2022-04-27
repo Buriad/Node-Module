@@ -4,11 +4,15 @@
   "description": "our first node project",
   "main": "Ex01.js",
   "scripts": {
+    "run-index": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "narmandakh buriad",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "react": "^18.1.0"
   }
 }
